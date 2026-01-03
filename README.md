@@ -1,12 +1,12 @@
-# FUTURE_DS_01
+# **FUTURE_DS_01**
 An interactive Power BI dashboard designed to analyze and visualize business sales performance. This project highlights key sales metrics, trends, and patterns through clean visuals, dynamic filters, and intuitive charts helping stakeholders make data-driven decisions quickly and effectively.
 This project was completed as Task 1 of my internship at Future Interns and the objective was to transform raw e-commerce sales data into meaningful insights that support data-driven business decisions.
 
-🎥 **Dashboard Walkthrough**: 
+## 🎥 **Dashboard Walkthrough**: 
 [Click here to watch the dashboard video](https://github.com/user-attachments/assets/8b409f76-a233-4e07-9f65-cf29ae439124)
 
 
-📌 **Objective of the Task**:
+## 📌 **Objective of the Task**:
 
 • Identify best-selling products
 
@@ -17,7 +17,7 @@ This project was completed as Task 1 of my internship at Future Interns and the 
 • Present insights in a clear, interactive Power BI dashboard
 
 
-🔍 **Analysis Overview**:
+## 🔍 **Analysis Overview**:
 
 • Cleaned and organized raw CSV sales data and analyzed:
 
@@ -34,7 +34,7 @@ This project was completed as Task 1 of my internship at Future Interns and the 
 • Designed an interactive dashboard with slicers and visuals
 
 
-📈 **Key Insights from the Dashboard**:
+## 📈 **Key Insights from the Dashboard**:
 
 • Total Sales: 1.57M | Profit: 175.26K | Quantity Sold: 22K
 
@@ -51,7 +51,7 @@ This project was completed as Task 1 of my internship at Future Interns and the 
 • Top State by Sales: California
 
 
-💡 **Business Recommendations**:
+## 💡 **Business Recommendations**:
 
 • Focus marketing efforts on high-performing categories like Office Supplies & Technology
 
@@ -63,8 +63,20 @@ This project was completed as Task 1 of my internship at Future Interns and the 
 
 • Use top sub-categories (e.g., Phones) for bundling and promotions
 
+## 👉 **Real Life Applications**:
 
-🛠️ **Skills Gained**:
+• Enable business stakeholders to track sales, profit, and quantity performance in real time.
+
+• Support data-driven decision-making by identifying top-selling products and high-revenue categories.
+
+• Optimize inventory and sales planning by analyzing seasonal and year-end sales trends.
+
+• Improve marketing strategies through region-wise and category-wise performance insights.
+
+• Enhance operational efficiency by evaluating shipping modes and regional sales distribution.
+
+
+## 🛠️ **Skills Gained**:
 
 Through this task, I strengthened my skills in:
 
@@ -81,7 +93,7 @@ Through this task, I strengthened my skills in:
 • Converting raw data into actionable insights
 
 
-🌱 **Key Learnings**:
+## 🌱 **Key Learnings**:
 
 • Learned how to convert raw business data into meaningful insights
 
@@ -90,3 +102,13 @@ Through this task, I strengthened my skills in:
 • Gained hands-on experience in designing interactive Power BI dashboards
 
 • Developed a business-focused mindset while analyzing data
+
+## **Acknowledgement**:
+
+I am grateful to Future Interns for this wonderful opportunity and their trust. This internship helped me in gaining hands-on experience by working on real life projects and enhancing my skills. 
+
+## **Contact Information**:
+
+Email Id: bhavikapoor07@gmail.com
+
+LinkedIn Profile: https://www.linkedin.com/in/bhavi-kapoor-aiml/
