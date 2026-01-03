@@ -103,11 +103,11 @@ Through this task, I strengthened my skills in:
 
 • Developed a business-focused mindset while analyzing data
 
-## **Acknowledgement**:
+## 🏆 **Acknowledgement**:
 
 I am grateful to Future Interns for this wonderful opportunity and their trust. This internship helped me in gaining hands-on experience by working on real life projects and enhancing my skills. 
 
-## **Contact Information**:
+## 🔗 **Contact Information**:
 
 Email Id: bhavikapoor07@gmail.com
 
